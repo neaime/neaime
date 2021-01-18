@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Kaffa Mobile
 - 🌱 I’m currently learning Kotln, Java e Android
 - 💬 Ask me about PHP, Java, Kotlin e Android
-- 📫 How to reach me: fneaime@gmail.com
+- 📫 How to reach me: fneaime@gmail.com ou <a href="https://www.linkedin.com/in/felipe-neaime-431a4b60/">LinkedIn</a>
 
 
 # Projetos Android (Curso)
